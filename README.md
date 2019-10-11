@@ -1,12 +1,12 @@
 # Where can I buy things online that isn't Amazon?
 
-Increasingly, Amazon isn't the best place to buy things online. Spam listings, fake/knock-off items, outright fraud, and just generally a poor experience. So here are some places that you can buy stuff that has a similar experience to Amazon, without the crap.
+Increasingly, Amazon isn't the best place to buy things online. Spam listings, fake/knock-off items, outright fraud, and just generally a poor experience. So here are some places that you can buy stuff that have a similar experience to Amazon, without the crap.
 
 "Similar experience" means:
 
 * A website that's pretty easy to use (good search, easy checkout, etc)
-* A pretty wide/large selection (niche/cottege businesses rock, but that's not what this list is for)
-* Reasonable (or free) shipping rats (including "ship to local store for pickup")
+* A pretty wide/large selection (niche/cottage businesses rock, but that's not what this list is for)
+* Reasonable (or free) shipping rates (including "ship to local store for pickup")
 * Generous return policies including reasonable (or free) return shipping rates
 
 **Please add your own stuff - pull requests welcome!**
@@ -15,7 +15,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 * [Powell's](https://www.powells.com/)
 
-## Camping/Outdoors
+## Camping / Outdoors
 
 * [REI](https://rei.com/)
 * [Backcountry.com](https://backcountry.com/)
@@ -41,13 +41,13 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 * [Valley Vet](https://www.valleyvet.com/)
 
-## Home/DIY
+## Home / DIY
 
 * [Home Depot](https://homedepot.com/)
 * [Lowes](https://lowes.com/)
 * [IKEA](https://ikea.com/)
 
-## Photo/Video
+## Photo / Video
 
 * [B&H](http://bhphotovideo.com)
 * [Full Compass](https://www.fullcompass.com/)
