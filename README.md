@@ -23,6 +23,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 ## Clothing
 
 * [LL Bean](https://llbean.com/)
+* [Uniqlo](http://uniqlo.com)
 
 ## Coffee and Coffee Brewing Accessories
 
@@ -50,11 +51,10 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 ## Sports / Fitness
 
-* [Running Warehouse](https://www.runningwarehouse.com/) 
-* [SwimOutlet](https://www.swimoutlet.com/) 
+* [Running Warehouse](https://www.runningwarehouse.com/)
+* [SwimOutlet](https://www.swimoutlet.com/)
 * [Clever Training](https://www.clevertraining.com/) - mostly focused on sports gadgets (gps watches, bike computers, etc)
 
 ## Wholesale / Bulk
 
 * [Costco](https://costco.com/) - membership required
-
