@@ -29,6 +29,10 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 * [Best Buy](https://www.bestbuy.com/)
 * [Newegg](https://newegg.com/)
 
+## Farm
+
+* [Valley Vet](https://www.valleyvet.com/)
+
 ## Home/DIY
 
 * [Home Depot](https://homedepot.com/)
