@@ -9,6 +9,8 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 * Reasonable (or free) shipping rats (including "ship to local store for pickup")
 * Generous return policies including reasonable (or free) return shipping rates
 
+**Please add your own stuff - pull requests welcome!**
+
 ## Books
 
 * [Powell's](https://www.powells.com/)
