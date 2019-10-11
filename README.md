@@ -24,6 +24,10 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 * [LL Bean](https://llbean.com/)
 
+## Coffee and Coffee Brewing Accessories
+
+* [Blue Bottle](https://bluebottlecoffee.com/)
+
 ## Electronics
 
 * [Best Buy](https://www.bestbuy.com/)
