@@ -19,6 +19,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 * [REI](https://rei.com/)
 * [Backcountry.com](https://backcountry.com/)
+* [Steep & Cheap](https://www.steepandcheap.com/)
 
 ## Clothing
 
