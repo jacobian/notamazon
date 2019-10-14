@@ -13,6 +13,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 ## Books
 
+- [Book Depository](https://www.bookdepository.com)
 - [Indiebound](https://indiebound.org) - links to independent bookstores nationwide and allows you to order directly from them
 - [Powell's](https://www.powells.com/)
 
@@ -53,6 +54,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 - [Home Depot](https://homedepot.com/)
 - [IKEA](https://ikea.com/)
 - [Lowes](https://lowes.com/)
+- [Target](https://www.target.com/)
 
 ## Photo / Video
 
