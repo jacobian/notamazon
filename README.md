@@ -26,6 +26,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 * [LL Bean](https://llbean.com/)
 * [Uniqlo](http://uniqlo.com)
 * [Patagonia](https://www.patagonia.com)
+* [Zalando](https://zalando.com) - EU only
 
 ## Coffee and Coffee Brewing Accessories
 
