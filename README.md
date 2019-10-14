@@ -20,6 +20,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 * [REI](https://rei.com/)
 * [Backcountry.com](https://backcountry.com/)
 * [Steep & Cheap](https://www.steepandcheap.com/)
+* [Feral Mountain Co.](https://shop.feralmountainco.com/)
 
 ## Clothing
 
@@ -32,6 +33,9 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 
 * [Blue Bottle](https://bluebottlecoffee.com/)
 * [Clive Coffee](https://clivecoffee.com/)
+* [Colectivo](https://shop.colectivocoffee.com/)
+* [Swing's Coffee Roasters](https://swingscoffee.com/product-category/coffee/)
+* [Stone Creek Coffee](https://www.stonecreekcoffee.com/roast/all)
 
 ## Electronics
 
