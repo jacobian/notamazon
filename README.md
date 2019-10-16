@@ -55,6 +55,7 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 - [IKEA](https://ikea.com/)
 - [Lowes](https://lowes.com/)
 - [Target](https://www.target.com/)
+- [Ace Hardware](https://www.acehardware.com/)
 
 ## Photo / Video
 
@@ -68,6 +69,10 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 - [Road Runner Sports](https://www.roadrunnersports.com/)
 - [Running Warehouse](https://www.runningwarehouse.com/)
 - [SwimOutlet](https://www.swimoutlet.com/)
+
+## Unique / Gifts
+
+- [The Grommet](https://www.thegrommet.com/)
 
 ## Wholesale / Bulk
 
