@@ -14,9 +14,9 @@ Increasingly, Amazon isn't the best place to buy things online. Spam listings, f
 ## Books
 
 - [Abe Books](https://www.abebooks.com)
-- [Book Depository](https://www.bookdepository.com)
 - [Indiebound](https://indiebound.org) - links to independent bookstores nationwide and allows you to order directly from them
 - [Powell's](https://www.powells.com/)
+- [BetterWorldBooks](https://www.betterworldbooks.com/)
 
 ## Camping / Outdoors
 
